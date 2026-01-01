@@ -7,7 +7,7 @@
 
 **Orchune** is a modern personal finance management platform. Designed for clarity and collaboration, it empowers you to track income, expenses, and net worth with an elegant, modern interface.
 
-### 🌐 [Live Demo: www.orchune.com](https://www.orchune.com)
+### 🌐 [Live Demo: www.orchune.com](https://www.orchune.com/en)
 
 ---
 
@@ -18,12 +18,6 @@ Orchune streamlines your financial life with powerful tools designed for individ
 - **🏦 Multi-Account Management**  
 Handle various account types, including bank accounts, credit cards, and digital payment platforms, all within a unified dashboard.
 
-- **🔍 Transaction Management**  
-Easily retrieve, filter your transaction history. Supports multi-criteria search, with batch edit and delete capabilities to help you efficiently manage every income and expense.
-
-- **📊 Financial Reporting**  
-    Automatically generate multidimensional financial reports, including income, expenses, assets, and liabilities. Statistics with visualized charts to help you gain comprehensive insights into your financial health.
-
 - **🤝 Shared Ledgers & Collaboration**
   Create distinct financial contexts (Personal, Business, Family) and invite members to collaborate.
 
@@ -33,8 +27,8 @@ Easily retrieve, filter your transaction history. Supports multi-criteria search
 - **⚡ Streamlined Transaction Management**
   Record income, expenses, and transfers with speed. Smart categorization and rich metadata support make tracking every penny simple and accurate.
 
-- **🏦 Comprehensive Account Command**
-  Gain a 360-degree view of your net worth. Manage diverse asset types—from cash and checking accounts to investments and liabilities—with a flexible hierarchy.
+- **📊 Financial Reporting**  
+    Automatically generate multidimensional financial reports, including income, expenses, assets, and liabilities. Statistics with visualized charts to help you gain comprehensive insights into your financial health.
 
 - **🌍 Native Multi-Language Support**
   Built for a global audience with first-class i18n support. Seamlessly switch between English and Chinese (Simplified), with an architecture ready for more.
